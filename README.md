@@ -1,5 +1,5 @@
 # PubMed Research Button (Tampermonkey Script)
-Get up to date, accurate information on any topic for the formost expeerts in the field!
+Get up to date, accurate information on any topic for the foremost expeerts in the field!
 
 # Features
 
